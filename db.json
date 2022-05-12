@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "Abdul Stafford",
+      "email": "jezako@mailinator.com",
+      "id": 2
+    },
+    {
+      "name": "Shoshana Justice",
+      "email": "ryxikyc@mailinator.com",
+      "id": 3
+    },
+    {
+      "name": "Kato Hopkins",
+      "email": "tecewycop@mailinator.com",
+      "id": 4
+    },
+    {
+      "name": "Evan Morse",
+      "email": "sidoxarumo@mailinator.com",
+      "id": 5
+    },
+    {
+      "name": "Thomas Lyons",
+      "email": "jotawub@mailinator.com",
+      "id": 6
+    },
+    {
+      "name": "Marsden Chavez",
+      "email": "puruf@mailinator.com",
+      "id": 7
+    }
+  ]
+}
